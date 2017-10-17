@@ -24,3 +24,11 @@
 </students>
 
 
+ <student>
+        <firstname>Dawid</firstname>
+        <lastname>Wasilewski</lastname>
+        <email>dawid.wasilewski96@gmail.com</email>
+        <github>dawidppv</github>
+        <group>Student</group>
+    </student>
+</students>
