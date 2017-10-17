@@ -14,6 +14,14 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+    <student>
+        <firstname>Karol</firstname>
+        <lastname>Tarlowski</lastname>
+        <email>karolkt1@wp.pl</email>
+        <github>karolkt1</github>
+        <group>Students</group>
+    </student>
+
 </students>
 
 
