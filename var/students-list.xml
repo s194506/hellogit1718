@@ -20,7 +20,26 @@
         <email>wladajan@gmail.com</email>
         <github>wladajan</github>
         <group>Student</group>
-</student>
+    </student>
+    <student>
+        <firstname>Adam</firstname>
+        <lastname>Widła</lastname>
+        <email>adamek155@gmail.com</email>
+        <github>Mamut96</github>
+        <group>KrdzIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Paweł</firstname>
+        <lastname>Tomkiewicz</lastname>
+        <email>pawtomk@gmail.com</email>
+        <github>pawelt7</github>
+        <group>Student</group>
+    </student>
+    <student>
+        <firstname>Dawid</firstname>
+        <lastname>Wasilewski</lastname>
+        <email>dawid.wasilewski96@gmail.com</email>
+        <github>dawidppv</github>
+        <group>Student</group>
+    </student>
 </students>
-
-
