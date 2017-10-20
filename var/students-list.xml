@@ -15,6 +15,13 @@
         <group>Teacher</group>
     </student>
     <student>
+        <firstname>Vlada</firstname>
+        <lastname>Yanishevska</lastname>
+        <email>wladajan@gmail.com</email>
+        <github>wladajan</github>
+        <group>Student</group>
+    </student>
+    <student>
         <firstname>Adam</firstname>
         <lastname>Widła</lastname>
         <email>adamek155@gmail.com</email>
@@ -28,10 +35,7 @@
         <github>pawelt7</github>
         <group>Student</group>
     </student>
-</students>
-
-
- <student>
+    <student>
         <firstname>Dawid</firstname>
         <lastname>Wasilewski</lastname>
         <email>dawid.wasilewski96@gmail.com</email>
