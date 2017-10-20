@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Hello Git</title>
+    <meta charset="utf-8">
 </head>
 <body>
 
