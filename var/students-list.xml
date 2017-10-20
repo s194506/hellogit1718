@@ -14,7 +14,14 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
-        <student>
+    <student>
+        <firstname>Adam</firstname>
+        <lastname>Widła</lastname>
+        <email>adamek155@gmail.com</email>
+        <github>Mamut96</github>
+        <group>KrdzIs3012Si</group>
+    </student>
+    <student>
         <firstname>Paweł</firstname>
         <lastname>Tomkiewicz</lastname>
         <email>pawtomk@gmail.com</email>
