@@ -49,4 +49,11 @@
         <github>dawidppv</github>
         <group>Student</group>
     </student>
+    <student>
+        <firstname>Maciej</firstname>
+        <lastname>Szewczyk-Jachym</lastname>
+        <email>macszewczyk@wp.pl</email>
+        <github>macszewczyk</github>
+        <group>Student</group>
+    </student>
 </students>
