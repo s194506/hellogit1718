@@ -49,4 +49,11 @@
         <github>dawidppv</github>
         <group>Student</group>
     </student>
+    <student>
+        <firstname>Ernest</firstname>
+        <lastname>Rogala</lastname>
+        <email>ernestrogal@gmail.com</email>
+        <github>FamousNest</github>
+        <group>Student</group>
+    </student>
 </students>
