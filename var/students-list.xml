@@ -62,4 +62,11 @@
         <github>FamousNest</github>
         <group>Student</group>
     </student>
+    <student>
+        <firstname>Karol</firstname>
+        <lastname>Skoczyk</lastname>
+        <email>karol_s16@interia.pl</email>
+        <github>karolskoczyk</github>
+        <group>KrDZIs3011Si</group>
+    </student>
 </students>
