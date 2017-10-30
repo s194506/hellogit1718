@@ -54,6 +54,12 @@
         <lastname>Szewczyk-Jachym</lastname>
         <email>macszewczyk@wp.pl</email>
         <github>macszewczyk</github>
+    </student>
+    <student>
+        <firstname>Ernest</firstname>
+        <lastname>Rogala</lastname>
+        <email>ernestrogal@gmail.com</email>
+        <github>FamousNest</github>
         <group>Student</group>
     </student>
 </students>
