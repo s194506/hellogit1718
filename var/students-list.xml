@@ -76,4 +76,11 @@
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
     </student>
+	 <student>
+        <firstname>Kamil</firstname>
+        <lastname>Roganowicz</lastname>
+        <email>kamil.kr@poczta.fm</email>
+        <github>s194506</github>
+        <group>KrDZIs3012Si</group>
+    </student>
 </students>
