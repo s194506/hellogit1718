@@ -62,11 +62,18 @@
         <github>FamousNest</github>
         <group>Student</group>
     </student>
-	<student>
-        <firstname>Jaros³aw</firstname>
+	  <student>
+        <firstname>Jarosï¿½aw</firstname>
         <lastname>Starmach</lastname>
         <email>l2extremel2@gmail.com</email>
         <github>Nixoor</github>
         <group>Student</group>
+    </student>
+    <student>
+        <firstname>Karol</firstname>
+        <lastname>Skoczyk</lastname>
+        <email>karol_s16@interia.pl</email>
+        <github>karolskoczyk</github>
+        <group>KrDZIs3011Si</group>
     </student>
 </students>
